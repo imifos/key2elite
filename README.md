@@ -22,8 +22,11 @@ $> key2elite.exe 33c-33-44S-55
 with c=LCTRL, C=RCTRL, s=LSHIFT, S=RSHIFT, a=LALT, A=RALT
    
 Binaries:
+
 https://github.com/imifos/key2elite/releases/tag/1.0
 
 Scan code table: 
+
 https://msdn.microsoft.com/en-us/library/aa299374(v=vs.60).aspx
+
 http://www.philipstorr.id.au/pcbook/book3/scancode.htm
